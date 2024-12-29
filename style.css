@@ -16,7 +16,7 @@ body {
     border-radius: 100%;
     width: 18rem; 
     height: 18rem; 
-    border: solid black 3px ; 
+    border: solid black 0.7rem ; 
 
     display: flex;
     justify-content: center;

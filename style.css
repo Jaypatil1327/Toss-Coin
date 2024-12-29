@@ -14,33 +14,19 @@ body {
 
 #shape {
     border-radius: 100%;
-    width: 18rem; 
-    height: 18rem; 
-    border: solid black 0.7rem ; 
+    width: 10rem; 
+    height: 10rem; 
+    border: solid black 3px ; 
 
     display: flex;
     justify-content: center;
     align-items: center ; 
 
     margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .ans {
-    font-size: 6rem;
-    font-weight: bolder;
-}
-
-.btn {
-    margin-top: 3rem;
-    border: 2px black solid ; 
-
-    border-radius: 18%;
-    outline: none;
-
-    background-color: rgb(255, 0, 0);
-    width: max-content; 
-    height: max-content;
-
-    padding: 0.4rem;
     font-size: 2rem;
+    font-weight: bolder;
 }

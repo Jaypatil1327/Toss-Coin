@@ -29,3 +29,18 @@ body {
     font-size: 2rem;
     font-weight: bolder;
 }
+
+.btn {
+    margin-top: 3rem;
+    border: 2px black solid ; 
+
+    border-radius: 18%;
+    outline: none;
+
+    background-color: rgb(255, 0, 0);
+    width: max-content; 
+    height: max-content;
+
+    padding: 0.4rem;
+    font-size: 1.2rem;
+}

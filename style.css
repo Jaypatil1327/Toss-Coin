@@ -14,8 +14,8 @@ body {
 
 #shape {
     border-radius: 100%;
-    width: 10rem; 
-    height: 10rem; 
+    width: 18rem; 
+    height: 18rem; 
     border: solid black 3px ; 
 
     display: flex;
@@ -26,7 +26,7 @@ body {
 }
 
 .ans {
-    font-size: 2rem;
+    font-size: 6rem;
     font-weight: bolder;
 }
 
@@ -42,5 +42,5 @@ body {
     height: max-content;
 
     padding: 0.4rem;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
